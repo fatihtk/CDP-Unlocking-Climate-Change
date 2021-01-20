@@ -1,0 +1,2 @@
+# CDP Unlocking Climate Change
+ Developed a methodology for calculating key performance indicators (KPIs) that relate to the environmental and social issues that are discussed in the CDP survey data. Leveraged external data sources and thoroughly discussed the intersection between environmental issues and social issues. Mined information to create automated insight generation demonstrating whether city and corporate ambitions take these factors into account.
